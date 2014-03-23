@@ -2,6 +2,9 @@ Vagrant LAMP Bootstrapper
 ======================================
 Use this Vagrant virtual machine to get going on any web project using the LAMP stack.
 
+## Linux
+Ubuntu 12.04 LTS
+
 ## Apache
 Not using Virtual hosts, but a virtual host template is included.
 
